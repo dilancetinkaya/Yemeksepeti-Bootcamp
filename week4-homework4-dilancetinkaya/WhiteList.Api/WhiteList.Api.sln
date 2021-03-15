@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteList.Api", "WhiteList.Api\WhiteList.Api.csproj", "{A6417436-D027-4CCC-802D-159613A2DEFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6417436-D027-4CCC-802D-159613A2DEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6417436-D027-4CCC-802D-159613A2DEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6417436-D027-4CCC-802D-159613A2DEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6417436-D027-4CCC-802D-159613A2DEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9321F64-77FF-4CF8-A871-6992E5EB107F}
+	EndGlobalSection
+EndGlobal

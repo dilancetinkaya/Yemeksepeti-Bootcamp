@@ -1,0 +1,9 @@
+C:\Users\dilan\Desktop\BootcampRepat\GenericRepositoryPattern\GenericRepository.Domain\bin\Debug\netcoreapp3.1\GenericRepository.Domain.deps.json
+C:\Users\dilan\Desktop\BootcampRepat\GenericRepositoryPattern\GenericRepository.Domain\bin\Debug\netcoreapp3.1\GenericRepository.Domain.dll
+C:\Users\dilan\Desktop\BootcampRepat\GenericRepositoryPattern\GenericRepository.Domain\bin\Debug\netcoreapp3.1\GenericRepository.Domain.pdb
+C:\Users\dilan\Desktop\BootcampRepat\GenericRepositoryPattern\GenericRepository.Domain\obj\Debug\netcoreapp3.1\GenericRepository.Domain.csprojAssemblyReference.cache
+C:\Users\dilan\Desktop\BootcampRepat\GenericRepositoryPattern\GenericRepository.Domain\obj\Debug\netcoreapp3.1\GenericRepository.Domain.AssemblyInfoInputs.cache
+C:\Users\dilan\Desktop\BootcampRepat\GenericRepositoryPattern\GenericRepository.Domain\obj\Debug\netcoreapp3.1\GenericRepository.Domain.AssemblyInfo.cs
+C:\Users\dilan\Desktop\BootcampRepat\GenericRepositoryPattern\GenericRepository.Domain\obj\Debug\netcoreapp3.1\GenericRepository.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dilan\Desktop\BootcampRepat\GenericRepositoryPattern\GenericRepository.Domain\obj\Debug\netcoreapp3.1\GenericRepository.Domain.dll
+C:\Users\dilan\Desktop\BootcampRepat\GenericRepositoryPattern\GenericRepository.Domain\obj\Debug\netcoreapp3.1\GenericRepository.Domain.pdb
