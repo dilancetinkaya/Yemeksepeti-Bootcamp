@@ -1,0 +1,18 @@
+.container{
+    background-color:rgb(186, 213, 216);
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin:auto;
+    margin-top: 40px;   
+}
+.button1{
+    background-color: rgb(205, 197, 219);
+    height: 35px;
+   border-style:solid;
+ 
+}
+.button2{
+    background-color: rgb(60, 155, 179);
+}
+
