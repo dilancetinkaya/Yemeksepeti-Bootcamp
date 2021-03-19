@@ -1,1 +1,1 @@
-# Kodluyoruz düzenlediği Yemeksepeti-Bootcamp boyunca yaptığım ödevler.
+# Kodluyoruzun düzenlediği Yemeksepeti-Bootcamp boyunca yaptığım ödevler.
